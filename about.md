@@ -3,4 +3,4 @@ layout: inner
 title: About
 permalink: /about/
 ---
-# Coming soon! :)
+# Work in progress, check back soon! :-)
