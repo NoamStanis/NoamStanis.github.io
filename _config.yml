@@ -92,7 +92,7 @@ pagination:
 footer_text: '© 2021 Noam Stanislawski'
 admin_name: 'Noam Stanislawski'
 google_analytics: "UA-9310164-47" # Update with your own tracking ID
-enable_contact: false
+enable_contact: true
 
 #### Phantom Navigation menu
 enable_nav: true
