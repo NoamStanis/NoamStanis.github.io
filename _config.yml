@@ -18,9 +18,10 @@ email: 'noamstanislawski@gmail.com'
 description: "I am a rising 3rd year Computer Science major at the College of William & Mary."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://noamstanis.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'noamstan'
+linkedin_username: 'noam-stanislawski-ba7a90210'
 github_username: 'NoamStanis'
 medium_username: ''
+twitter_username: ''
 
 # Build settings
 markdown: kramdown
