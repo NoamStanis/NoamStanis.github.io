@@ -98,4 +98,4 @@ enable_contact: true
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/pdfs/resume', text: 'Resume'}
+  - { url: '/pdfs/resume.pdf', text: 'Resume'}
