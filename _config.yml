@@ -26,7 +26,7 @@ github_username: 'NoamStanis'
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate-v1
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
