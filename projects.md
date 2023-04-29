@@ -9,11 +9,13 @@ Projects
 
 **Performance Modeling for Large-Scale Linear Applications**
 
-Sandia
+* Created a performance model testing the efficiency of sparse matrix vector products calculated with Trilinos.
+* Ran and verified data from various benchmarks in order to find computational limits for linear solvers.
+* Wrote research paper comparing the data from the model to real problems utilized by Sandia scientists.
  
  &nbsp; 
  &nbsp;
- 
+
 **HPC Optimization Using Hyper-Threading**
 
 My NSF REU project at [South Dakota State](https://www.sdstate.edu/mechanical-engineering/research-experience-undergraduates) from summer 2021. Read the abstract and poster below:
