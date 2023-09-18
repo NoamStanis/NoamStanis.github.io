@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 output:
     html_document:
-        css: /css/custom.css
+        css: custom.css
 ---
 
 Projects 
