@@ -2,10 +2,16 @@
 layout: inner
 title: Projects
 permalink: /projects/
-output:
-    html_document:
-        css: custom.css
 ---
+
+```{css style settings, echo = FALSE}
+blockquote {
+  padding:10px 20px;
+  margin:0 0 20px;
+  font-size:10pt;
+  border-left:5px solid #eee
+}
+```
 
 Projects 
 ----------
