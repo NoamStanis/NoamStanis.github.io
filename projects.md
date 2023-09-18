@@ -4,14 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
-```{css style settings, echo = FALSE}
+<style>
 blockquote {
   padding:10px 20px;
   margin:0 0 20px;
   font-size:10pt;
   border-left:5px solid #eee
 }
-```
+</style>
 
 Projects 
 ----------
