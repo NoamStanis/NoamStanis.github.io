@@ -13,7 +13,14 @@ blockquote {
 }
 </style>
 
-Projects 
+## Current Work
+**R&D Engineer at [ESI Group](https://www.esi-group.com/) ( a Keysight Technologies Company)**
+
+I currently work on ESI's [VA One](https://www.esi-group.com/products/va-one), the all in one platform for Vibro-Acoustic analysis and simulation. We support a variety of vibro-acoustic solvers, allowing engineers to assess the strengths of their models in a variety of ways. 
+
+To this end, I work specifically on improving our internal mathematical engine, our application's GUI, and the CI/CD pipeline for building our app. I have helped to employ a variety of parallel techniques ( multithreading, concurrency, processor level parallelism) into our engine for advanced throughput and CPU time. I also help maintain a rich API library for interfacing with the app through the command line via Python scripting. Feel free to reach out if you would like to know more!
+
+Past Projects 
 ----------
 
 **Performance Modeling for Large-Scale Linear Applications**
@@ -46,4 +53,3 @@ Poster:
 ![](img/projects/REU_POSTER.jpg)
 
 > Intel’s Hyper-Threading Technology is an implementation of simultaneous multi-threading upon Intel proprietary CPU architecture. This technology allows for a single CPU core to handle two distinct processes concurrently, with the end-user and operating system recognizing the single core as two “logical processors.” Under certain conditions, this technology can improve processing speed by thirty percent. The goal of this research is to determine the potential performance boosts or degradations exist when utilizing Hyper-Threading in a high performance computing cluster environment. Hyper-Threading technology introduces a multitude of additional possible bottlenecks and runtime slow downs via the added logical cores, and isolating these issues when possible to improve performance can be crucial in large scale applications. The central hypothesis of this work is that heavily parallelized or multi-threaded applications will see increased performance from Hyper-Threading, while processes that must be run in serial will experience little to no computational benefit. The project strategy is to re-examine and retest the earlier findings of T. Leng et al. conducted at Dell in 2002 using our small-scale development high performance computing cluster. Our data collection relies on two types of software: cluster computing benchmarks and a performance analysis tool evaluating said benchmarks performance. In this case, we have used four benchmarking programs: High Performance Linpack and the EP (Embarrassingly Parallel), IS (Integer Sort), and FT (Fourier Transform) benchmarks from the NAS Parallel Benchmark suite. All of these applications are monitored by Intel’’s VTune Profiler for performance analysis, which determines statistics such as multi level cache misses, cycle per instruction retired, and total number of floating-point instructions. By utilizing these software and our cluster architecture it is determined that Hyper-Threading is a worthwhile technology for cluster computing if optimized parallel programs are being run.
-
