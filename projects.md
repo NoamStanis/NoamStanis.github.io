@@ -20,7 +20,9 @@ I currently work on ESI's [VA One](https://www.esi-group.com/products/va-one), t
 
 To this end, I work specifically on improving our internal mathematical engine, our application's GUI, and the CI/CD pipeline for building our app. I have helped to employ a variety of parallel techniques ( multithreading, concurrency, processor level parallelism) into our engine for advanced throughput and CPU time. I also help maintain a rich API library for interfacing with the app through the command line via Python scripting. Feel free to reach out if you would like to know more!
 
-<br> <br>
+&nbsp; 
+&nbsp;
+&nbsp;
 
 Past Projects 
 ----------
